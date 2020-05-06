@@ -22,9 +22,9 @@ Webブラウザーでコメントを投稿するWebアプリケーションの�
         $ git clone https://github.com/holytawashi/norilog
         $ cd norilog
         $ python3.6 -m venv venv
-        $source venv/bin/activate
-        (venv)$ pip install .
-        (venv)$ norilog
+        $ source venv/bin/activate
+        (venv) $ pip install .
+        (venv) $ norilog
         * Running on https:..127.0.0.1:8000/
 
  
